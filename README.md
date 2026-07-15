@@ -23,19 +23,19 @@ Este repositório foi estruturado para documentar e aplicar de forma prática os
 
 O repositório é dividido em módulos estruturados, contendo exercícios práticos e desafios autorais de lógica e modelagem:
 
-### 1. Fundamentos da Linguagem Dart (Estudo Concluído)
+### 1. Fundamentos da Linguagem Dart (Em andamento)
 * **Setup & CLI:** Instalação, configuração do SDK do Dart e execução via terminal/Code Runner.
 * **Variáveis e Tipagem:** Estudo de inferência de tipos (`var`), tipos básicos (`int`, `double`, `String`, `bool`), notação ponto e o recurso Null Safety.
 * **Constantes:** Diferenças entre inicialização e tempo de compilação (`const` e `final`).
 * **Operadores Avançados:** Operadores Aritméticos, Atribuição, Relacionais, Lógicos e Unários.
 * **Estruturas de Dados Básicas:** Manipulação de Strings (Interpolação) e introdução a tipos parametrizados com **Generics**.
 
-### 2. Estruturas de Controle e Fluxo (Estudo Concluído)
+### 2. Estruturas de Controle e Fluxo (Próximo Passo)
 * **Condicionais:** Implementações de estruturas de decisão com `if`, `else` e tomadas de decisão múltiplas com `switch/case`.
 * **Laços de Repetição:** Dominando estruturas de repetição `for`, `while` e controle interno de iterações (`break` / `continue`).
 * **Desafios Práticos:** Resolução de problemas de algoritmos matemáticos e tabulação de dados complexos utilizando laços aninhados.
 
-### 3. Paradigma Funcional & Funções (Em Andamento)
+### 3. Paradigma Funcional & Funções (Próximo Passo)
 * **Declaração de Funções:** Escopo de funções, retorno de tipos estáticos e dinâmicos.
 * **Parâmetros de Funções:** Parâmetros posicionais, opcionais e **parâmetros nomeados** (essenciais para o desenvolvimento de widgets no Flutter).
 * **Funções de Primeira Classe:** Armazenamento de funções em variáveis, funções anônimas e Arrow Functions.
