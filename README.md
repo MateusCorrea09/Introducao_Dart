@@ -23,7 +23,7 @@ Este repositório foi estruturado para documentar e aplicar de forma prática os
 
 O repositório é dividido em módulos estruturados, contendo exercícios práticos e desafios autorais de lógica e modelagem:
 
-### 1. Fundamentos da Linguagem Dart (Em andamento)
+### 1. Fundamentos da Linguagem Dart (Concluído)
 * **Setup & CLI:** Instalação, configuração do SDK do Dart e execução via terminal/Code Runner.
 * **Variáveis e Tipagem:** Estudo de inferência de tipos (`var`), tipos básicos (`int`, `double`, `String`, `bool`), notação ponto e o recurso Null Safety.
 * **Constantes:** Diferenças entre inicialização e tempo de compilação (`const` e `final`).
